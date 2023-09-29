@@ -1,7 +1,7 @@
 # ESGAR: Explicitly Semantic Guided Attribute Recognition
 
 ## Paper Information
-Shahadat Shahed$^*$, Yuhao Lin$^*$, Jiangnan Hong, Jinglin Zhou, Fei Gao†, Zhoufang Xiao and Nannan Wang, Explicitly Semantic Guidance for Face Sketch Attribute Recognition with Imbalanced Data, IEEE Signal Processing Letters, accepted, 2023.
+Shahadat Shahed \*, Yuhao Lin \*, Jiangnan Hong, Jinglin Zhou, Fei Gao†, Zhoufang Xiao and Nannan Wang, Explicitly Semantic Guidance for Face Sketch Attribute Recognition with Imbalanced Data, IEEE Signal Processing Letters, accepted, 2023.
 
 
 ## Abstract
